@@ -140,19 +140,50 @@ a:focus {
     }
 }
 
-.intro {
+.intro1 {
     display: table;
     width: 100%;
     height: auto;
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/hoodie.jpg) no-repeat bottom center scroll;
+    background: url(../img/penumbra.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+.intro2 {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+  background: url(../img/hoodie.jpg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.intro3 {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+  background: url(../img/womanoncliff.jpg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
 }
 
 .intro .intro-body {
@@ -261,11 +292,35 @@ a:focus {
     padding-top: 100px;
 }
 
-.download-section {
+.read1 {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/subway.jpg) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.read2 {
     width: 100%;
     padding: 50px 0;
     color: #fff;
     background: url(../img/jellyfish.jpg) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.read3 {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/tunnel.jpg) no-repeat center center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -284,7 +339,15 @@ a:focus {
         padding-top: 250px;
     }
 
-    .download-section {
+    .read1 {
+        padding: 100px 0;
+    }
+
+    .read2 {
+        padding: 100px 0;
+    }
+
+    .read3 {
         padding: 100px 0;
     }
 
