@@ -1,4 +1,22 @@
-.intro .intro-body {
+.chapter-text {
+  text-align: left;
+  margin: .7em 0 .7em 0;
+}
+
+.chapter-text h3 {
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 1em;
+}
+
+.chapter-text p {
+  font-family: Droid Serif;
+  font-size: 18px;
+  line-height: 180%;
+  margin-top: -1%;
+}
+
+/*.intro .intro-body {
     display: table-cell;
     vertical-align: middle;
 }
@@ -24,85 +42,4 @@
     .intro .intro-body .intro-text {
         font-size: 26px;
     }
-}
-
-.read1 {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(../img/subway.jpg) no-repeat center center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.read2 {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(../img/jellyfish.jpg) no-repeat center center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.read3 {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(../img/tunnel.jpg) no-repeat center center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.intro1 {
-    display: table;
-    width: 100%;
-    height: auto;
-    padding: 100px 0;
-    text-align: center;
-    color: #fff;
-    background: url(../img/penumbra.jpg) no-repeat bottom center scroll;
-    background-color: #000;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.intro2 {
-  display: table;
-  width: 100%;
-  height: auto;
-  padding: 100px 0;
-  text-align: center;
-  color: #fff;
-  background: url(../img/hoodie.jpg) no-repeat bottom center scroll;
-  background-color: #000;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
-
-.intro3 {
-  display: table;
-  width: 100%;
-  height: auto;
-  padding: 100px 0;
-  text-align: center;
-  color: #fff;
-  background: url(../img/womanoncliff.jpg) no-repeat bottom center scroll;
-  background-color: #000;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-}
+}*/
